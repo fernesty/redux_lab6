@@ -30,5 +30,4 @@ const storemanager = (state = defState, action) => {
 }
 
 
-
 export {product, storemanager}
