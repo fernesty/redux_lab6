@@ -6,9 +6,9 @@ import {storemanager} from "./reducer";
 import Counter from "./component/counter";
 
 
+
 export default function App() {
     return (<View>
-
         <Provider store={store}>
             <Text>Здравствуйте, Тигран</Text>
             <Counter/>
